@@ -40,7 +40,7 @@ Yarn to install:
 yarn
 ```
 
-Run with nodemon:
+Run frontend:
 
 ```sh
 yarn dev
